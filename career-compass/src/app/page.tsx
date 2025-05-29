@@ -18,7 +18,7 @@ export default function Home() {
           <div className="bg-white bg-opacity-20 p-8 rounded-lg shadow-lg max-w-md text-center">
             <h2 className="text-2xl font-semibold mb-4">Welcome!</h2>
             <p className="text-lg">
-              We're building an AI-powered platform to help you explore careers that match your skills and interests.
+              We are building an AI-powered platform to help you explore careers that match your skills and interests.
             </p>
             <p className="mt-4">
               Stay tuned – exciting features are on the way!
